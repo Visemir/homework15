@@ -30,8 +30,12 @@ Connect to the database with mysql utility from your PC
 Task 3: Lambda
 Write an AWS Lambda function that will run by cron at 12:00 PM and stop all EC2 instances running with a specific tag
 
-
+![](https://github.com/Visemir/homework15/blob/main/Lambdav2.jpg)
 
 Use Python and boto3 library for it
+
+![](https://github.com/Visemir/homework15/blob/main/Lambdav2TEST.jpg)
+
+![](https://github.com/Visemir/homework15/blob/main/Lambdav2Stoped.jpg)
 
 After verifying that the Lambda function works, remove it and its IAM role
